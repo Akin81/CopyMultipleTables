@@ -1,0 +1,9 @@
+{
+	"name": "Copyingmultipletables",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00024134-84dd-436f-a4d9-a7b6dd8477e9",
+		"tenantId": "cf4aeefa-1566-46b3-8063-e2ece8501b9d"
+	}
+}
